@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- Using Java to create a TicTacToe game
+ Using Java to create a basic TicTacToe game
